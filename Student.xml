@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <object type="student" sex ="male">
+        <first_name>Yurii</first_name>
+        <last_name>Kantemir</last_name>
+        <email>test@email.com</email>
+        <age>30</age>
+        <subscription>true</subscription>
+        <course>Test automatization on JAVA</course>
+		<technologies>API, Web, SQL</technologies>
+		<position>QA</position>
+        <start_date>
+            <date day="30" month="may" year="2023"/>
+        </start_date>
+    </object>
+</students>

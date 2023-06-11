@@ -1,0 +1,24 @@
+{
+	
+ "first_name": "Yurii",
+ "last_name": "Kantemir",
+ "full_years": 30,
+ "subscription": true,
+ "email": "Test@email.com",
+ "technologies": [
+	"API", 
+	"WEB", 
+	"SQL"
+ ],
+ "course": "Automation JAVA",
+ "start_date": {
+	 "date": 30,
+	 "month": "May",
+	 "year": 2023
+ },
+ "address": {
+	 "country": "Ukraine",
+	 "city": "Chernivtsi",
+	 "zip": 58000
+ }
+}

@@ -1,0 +1,29 @@
+---
+student:
+  firts name: Yurii
+  last name: Kantemir
+  age: 30
+  height: 1.8
+  subscription: true
+  email: test@mail.com
+  course:
+    - Test Atomization
+    - Java
+  technologies:
+    - SQL
+    - WEB
+    - API
+  story: |
+    the short  story presented  in the new  line
+  bio: |
+    short
+    biography
+    in one 
+    paragraph
+  address:
+    country: Ukraine
+    city: Chernivtsi
+  start date:
+    day: 30
+    month: May
+    year: 2023
